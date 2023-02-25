@@ -7,4 +7,10 @@ The main goal is to predict the fares of the flights based on different factors 
 ## Dataset:
 Dataset Link :- https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 
-
+## Resources Used:
+1. Jupyter Notebook
+2. Pandas
+3. Numpy
+4. Scikit Learn
+5. Flask
+6. HTML
